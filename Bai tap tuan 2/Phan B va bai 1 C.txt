@@ -1,0 +1,54 @@
+1.b
+
+2.a
+
+3.c
+
+4.a
+
+5.c
+
+6.c
+
+7.d
+
+8.e
+
+9.d
+
+10.b
+
+11.b
+
+12.d
+
+14.d
+
+15.d
+
+16.d
+
+17.d
+
+18.d
+
+19.d
+
+20.d
+
+
+
+Bai 1 C: 1.while (n<20); // ton tai dau ";" dang sau while nen chuong trinh bi loi
+
+2.	for (int i = 1, i <= 8, ++i)
+   cout << 1.0/i << endl; // khai bao dinh dang i la int nen phep chia se khong co ket qua chinh xac
+3.	int n = 10;
+   Do
+ 	      cout << 1.0/n ; // thieu 2 dau ngoac
+                  n++;
+               while (n < 20);
+4.	for (int i=10;i<20; ) { // vong lap khong hoat dong do i=10 von di da <20
+   cout << i*i <<endl;
+   i--;
+}
+Còn 3A,4A,5A,5.,6.,7.,8.,9.,7C,8C,11C,13C-->19C, Toàn phần D
